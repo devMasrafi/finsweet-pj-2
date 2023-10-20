@@ -9,6 +9,7 @@ tailwind.config = {
           condensed: "'Roboto Condensed', sans-serif;",
         },
         colors: {
+          black: '#0D0D0D',
           primary: '#FFF5EB',
           common: '#FFD2A4',
           button: '#1C1D28',
